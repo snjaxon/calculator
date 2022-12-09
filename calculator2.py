@@ -1,6 +1,6 @@
 from colorama import Fore, Back, Style
 
-from calculator.calculations2 import Calculations2
+from calculations2 import Calculations2
 
 myCalculations2 = Calculations2()
 calc_error = Fore.BLACK + Back.RED + Style.BRIGHT
